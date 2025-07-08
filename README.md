@@ -7,6 +7,9 @@
 sudo apt upgrade<br>
 sudo apt install python3 python3-pip<br>
 
+#免費使用者需要透過 ffmpeg 轉換影片檔<br>
+sudo apt install ffmpeg<br>
+
 #移除可能存在的同名套件<br>
 sudo apt remove whisper<br>
 sudo pip uninstall whisper<br>
